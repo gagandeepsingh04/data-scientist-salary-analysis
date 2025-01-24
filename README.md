@@ -35,7 +35,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
     - Spark
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables also an Heat Map.
+
 ![avg_salary.png](https://github.com/gagandeepsingh04/data-scientist-salary-analysis/blob/main/avg_salary.png)
 
 ![heat_map.png](https://github.com/gagandeepsingh04/data-scientist-salary-analysis/blob/main/heat_map.png)
