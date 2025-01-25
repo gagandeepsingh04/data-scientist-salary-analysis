@@ -14,14 +14,14 @@
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file. Refer `requirements.txt` in the repo.
-
+```python
+pip install -r requirements.txt
+```
 `pandas`
 `numpy`
 `matplotlib`
 `seaborn`
 `sklearn` 
-
-
 
 ## Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
