@@ -6,6 +6,10 @@
 
 ## Contains
 1. [Environment Variables](#Environment-Variables)
+2. [Data Cleaning](#Data-Cleaning)
+3. [EDA](#EDA)
+4. [Model Building](#Model-Building)
+5. [Model performance](#Model-performance)
 
 ## Environment Variables
 
@@ -52,6 +56,8 @@ I tried three different models:
 - Multiple Linear Regression – Baseline for the model
 - Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 - Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
+
+
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
